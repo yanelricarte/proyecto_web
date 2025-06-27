@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #1a1a1a;
+    color: white;
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+
+/* ENCABEZADO*/
+.header {
+    text-align: center;
+    padding: 2rem 0;
+    border-bottom: 2px solid #f4c542;
+    margin-bottom: 3rem;
+}
+
+.titulo-principal {
+    color: #f4c542;
+    font-size: 3.6rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.subtitulo {
+    font-style: italic;
+    text-align: center;
+    color: #ddd;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Navegación*/
+.navegacion {
+    margin-bottom: 2rem;
+}
+
+.menu {
+    list-style: none;
+    background-color: #333;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 1.6rem;
+}
+
+.menu a {
+    color: white;
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Contenido*/
+.contenido {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.intro {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.seccion-intro {
+    margin-bottom: 3rem;
+
+}
+
+.seccion-intro a {
+    display: block;
+    text-align: center;
+    color: #f4c542;
+    font-size: 1.6rem;
+    text-decoration: none;
+
+}
+
+.seccion-intro a:hover {
+    text-decoration: underline;
+}
+
+.seccion-personajes {
+    margin-bottom: 2rem;
+    font-size: 1.6rem;
+}
+
+.seccion-lista {
+    margin-top: 1.5rem; 
+    background-color: #2b2b2b;
+    border-left: 5px solid #f4c542;
+}
+
+.subtitulo-seccion{
+    font-size: 1.6rem;
+}
+.lista {
+    margin-left: 2.8rem;   
+    border-radius: 0.5rem;
+    font-size: 1.6rem;
+}
+
+.lista li {
+    margin-bottom: 0.8rem;
+}
+
+.footer {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #aaa;
+    border-top:  1px solid #555;
+    padding-top: 1rem;
+    margin-top: 4rem;
+}
