@@ -10,6 +10,7 @@ mi_sitio/
 ├── css/
 │ └── estilos.css
 └── README.md
+```
 
 # Tecnologías usadas
 - HTML
