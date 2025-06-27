@@ -16,10 +16,10 @@ mi_sitio/
 - HTML
 - CSS
 - GIT para control de versiones
-- GIYHUB como reposotorio remoto
+- GITHUB como reposotorio remoto
 
 # Instrucciones 
-1. Clonar el reposotorio:
+1. Clonar el repositorio:
    ```bash
    
    git clone https://github.com/yanelricarte/proyecto_web.git
